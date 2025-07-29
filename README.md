@@ -9,5 +9,8 @@ Funcionalidades:
 - Efetuar pagamento
 - Imprimir recibo em um arquivo .txt (não está funcionando)
 
+Para executar o projeto:
+Baixe a pasta do projeto e abra o arquivo "Projeto_Admin.exe".
+
 
 Vídeo de apresentação do projeto: [https://www.youtube.com/watch?v=QozUfcNTNO8](https://www.youtube.com/watch?v=QozUfcNTNO8)
